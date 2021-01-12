@@ -3,7 +3,7 @@ Simple renderer to output RGB, Depth, and NOCS correspondences. Based on the imp
 ## Installation
 * install anaconda or miniconda
 * set up a virtual environment using: "conda env create -n renderer -f env.yml"
-* activate a virtual environment using: source activate renderer
+* activate a virtual environment using: conda activate renderer
 
 ## Usage
 To run the code activate the created virtual environment and execute the following command:
